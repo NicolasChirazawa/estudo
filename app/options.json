@@ -1,0 +1,7 @@
+{
+    "CONFIG": {
+        "START_DATE": "2026-01-01",
+        "DIR_ZIP_NAME": "archives-zip",
+        "DIR_CSV_NAME": "archives-csv"
+    }
+}
