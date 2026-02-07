@@ -37,7 +37,7 @@ Há um arquivo na raiz do projeto <em>('./requirements')</em> que auxilia a inst
 <h3>⚙️ Como configurar?</h3>
 
 <h4>'JSON'</h4>
-Há um arquivo no caminho '/app/option.json' para configurar o projeto. <br> <br>
+Há um arquivo no caminho '/app/option_template.json' para configurar o projeto. <br> <br>
 
 <h2 name="inicializar">📄 Funcionalidades </h2>
 
