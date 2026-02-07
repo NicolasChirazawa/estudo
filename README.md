@@ -6,9 +6,6 @@
 <div align="center">
   • <a href=#descricao>Descrição</a> 
   • <a href=#inicializar>Inicializando</a> 
-  • <a href=#endpoint>Endpoint</a> 
-  • <a href=#bd>Banco de Dados</a> 
-  • <a href=#lista_ideais>Lista de Ideias</a> 
   •
 </div>
 
